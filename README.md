@@ -8,4 +8,4 @@ O presente trabalho teve como objetivo construir um classificador através da ap
 Para rodar a implementação: 
 
 O conjunto de dados foi obtido neste site: http://depressiondetection.droppages.com/
-Porém, não foram utilizados todos os dados presentes nesse dataset. Para obter resultados semelhantes ao do trabalho em questão, é necessário seguir os papos descritos na monografia. 
+Porém, não foram utilizados todos os dados presentes nesse dataset. Para obter resultados semelhantes ao do trabalho em questão, é necessário seguir os passos descritos na monografia. 
